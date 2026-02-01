@@ -1,4 +1,5 @@
 🚀 André | Data Scientist em Formação & Engenheiro de Soluções IA
+
 Sou bacharel em TI e atualmente Pós-Graduando em Data Science, focado em extrair inteligência de dados complexos para gerar impacto nos negócios. Minha jornada une o rigor acadêmico da ciência de dados com a agilidade do desenvolvimento de software.
 
 🎓 Especialização & Pesquisa
