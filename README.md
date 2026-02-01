@@ -35,5 +35,3 @@ Governança: Proteção de dados sensíveis e conformidade com boas práticas de
 
 🎯 Objetivo Profissional
 Unir a robustez da Ciência de Dados com a automação de IA para criar soluções que não apenas organizem dados, mas que prevejam cenários e otimizem resultados de forma inteligente.
-
-Por que isso ajuda você na Pós?
