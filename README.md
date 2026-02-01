@@ -1,23 +1,35 @@
-# Meu-perfil
-🚀 Sobre Mim: André | Analista de Dados & Desenvolvedor
-Recém-formado em TI com foco em transformar dados brutos em decisões estratégicas. Sou entusiasta de Inteligência Artificial e entusiasta da automação de processos que eliminam o trabalho manual e trazem clareza financeira.
+🚀 Sobre Mim: André | Analista de Dados & Engenheiro de Soluções IA
+Recém-formado em TI com foco em extrair valor estratégico através de dados. Minha especialidade é criar pontes entre o caos dos dados brutos e a clareza da tomada de decisão, utilizando desde ferramentas corporativas como Power BI até arquiteturas personalizadas com LLMs e Agentes de Automação.
 
-🧠 O que eu faço?
-Desenvolvo pipelines de dados completas (End-to-End), desde a ingestão via APIs e automação com GitHub Actions até a entrega de dashboards analíticos de alta performance hospedados em nuvem.
+🧠 Ecossistema de Projetos & Inovação
+1. Agente Financeiro Multimodal (Telegram + LLM + PWA) Desenvolvi um agente inteligente que automatiza o fluxo de registro financeiro:
 
-🛠️ Meu Arsenal Técnico
-Linguagens & Frameworks: Python (FastAPI, Pandas, Jinja2) e JavaScript Vanilla.
+Interface: Bot de Telegram que recebe inputs via áudio.
 
-Engenharia de Dados: ETL avançado, sanitização via Regex e desmembramento de strings complexas para auditoria.
+Inteligência: Integração com LLM Llama para interpretação de linguagem natural, extração de entidades e limpeza de dados após o processamento do áudio.
 
-Infraestrutura & Nuvem: Deploy no Render, integração com Google Cloud API e bancos de dados (Supabase/PostgreSQL).
+Pipeline: Os dados processados são registrados automaticamente via GitHub em planilhas mestre (Sheets).
 
-Governança: Foco em LGPD, proteção de dados sensíveis via variáveis de ambiente e integridade de backup automatizado.
+Visualização: Geração de dashboards locais via PWA (Progressive Web App) para acompanhamento imediato das vendas registradas.
 
-📈 Projetos de Destaque
-Dashboard Gestor IA: Controle diário de vendas em tempo real com cache inteligente.
+2. Analista Visionário & Gestor IA Pipelines de ETL focadas em auditoria e performance:
 
-Analista Visionário: Sistema de auditoria macro com análise de ticket médio e identificação de custos críticos ("Calcanhar de Aquiles").
+Data Explosion: Tratamento de vendas complexas com Pandas para granularidade de faturamento por item.
 
-🎯 Objetivo
-Aprimorar-me diariamente no ecossistema de IA e Dados, criando ferramentas que não apenas processem informações, mas que gerem valor real para o negócio através da tecnologia.
+Auditoria Macro: Monitoramento de Ticket Médio, Lucro Consolidado e mapeamento de custos críticos ("Calcanhar de Aquiles").
+
+3. BI Corporativo (Power BI)
+
+Vasta experiência na criação de dashboards profissionais no âmbito corporativo, com foco em modelagem de dados (DAX/Power Query) para análise de KPIs de larga escala e suporte à decisão executiva.
+
+🛠️ Arsenal Técnico
+Linguagens & Web: Python (FastAPI, Pandas), JavaScript (Vanilla, PWA), HTML5/CSS3 (Dark Mode/Dashboard Design).
+
+IA & Automação: LLMs (Llama), Telegram Bot API, GitHub Actions (CI/CD de Dados).
+
+Bancos & Cloud: Supabase (PostgreSQL), Google Cloud API (Sheets/Drive), Render.
+
+Governança: Implementação de normas LGPD, sanitização de dados via Regex e gestão de variáveis de ambiente para proteção de dados sensíveis.
+
+🎯 Onde quero chegar?
+Busco aplicar meu conhecimento em IA e Engenharia de Dados para criar sistemas que não apenas leiam números, mas que antecipem tendências e otimizem operações complexas com agilidade e segurança.
