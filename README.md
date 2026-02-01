@@ -1,35 +1,38 @@
-🚀 Sobre Mim: André | Analista de Dados & Engenheiro de Soluções IA
-Recém-formado em TI com foco em extrair valor estratégico através de dados. Minha especialidade é criar pontes entre o caos dos dados brutos e a clareza da tomada de decisão, utilizando desde ferramentas corporativas como Power BI até arquiteturas personalizadas com LLMs e Agentes de Automação.
+🚀 André | Data Scientist em Formação & Engenheiro de Soluções IA
+Sou bacharel em TI e atualmente Pós-Graduando em Data Science, focado em extrair inteligência de dados complexos para gerar impacto nos negócios. Minha jornada une o rigor acadêmico da ciência de dados com a agilidade do desenvolvimento de software.
 
-🧠 Ecossistema de Projetos & Inovação
-1. Agente Financeiro Multimodal (Telegram + LLM + PWA) Desenvolvi um agente inteligente que automatiza o fluxo de registro financeiro:
+🎓 Especialização & Pesquisa
+Pós-Graduação em Data Science: Aprofundando conhecimentos em Modelagem Estatística, Machine Learning e análise preditiva.
 
-Interface: Bot de Telegram que recebe inputs via áudio.
+Foco: Aplicação de LLMs (Large Language Models) para automação de fluxos operacionais e análise de séries temporais financeiras.
 
-Inteligência: Integração com LLM Llama para interpretação de linguagem natural, extração de entidades e limpeza de dados após o processamento do áudio.
+🧠 Ecossistema de Projetos (Destaques)
+1. Agente Financeiro Multimodal (Telegram + LLM Llama + PWA)
 
-Pipeline: Os dados processados são registrados automaticamente via GitHub em planilhas mestre (Sheets).
+Arquitetura que converte áudio de usuários em dados estruturados utilizando Processamento de Linguagem Natural (NLP) com o modelo Llama.
 
-Visualização: Geração de dashboards locais via PWA (Progressive Web App) para acompanhamento imediato das vendas registradas.
+Pipeline automatizada via GitHub Actions para registro em bases de dados e visualização imediata em PWA.
 
-2. Analista Visionário & Gestor IA Pipelines de ETL focadas em auditoria e performance:
+2. BI & Auditoria de Performance (Analista Visionário)
 
-Data Explosion: Tratamento de vendas complexas com Pandas para granularidade de faturamento por item.
+Implementação de técnicas de ETL avançado e manipulação de DataFrames com Pandas para auditoria macro.
 
-Auditoria Macro: Monitoramento de Ticket Médio, Lucro Consolidado e mapeamento de custos críticos ("Calcanhar de Aquiles").
+Análise de Ticket Médio e reamostragem temporal (resample) para identificação de padrões de consumo e custos críticos.
 
-3. BI Corporativo (Power BI)
+3. Inteligência de Negócios Corporativa (Power BI)
 
-Vasta experiência na criação de dashboards profissionais no âmbito corporativo, com foco em modelagem de dados (DAX/Power Query) para análise de KPIs de larga escala e suporte à decisão executiva.
+Desenvolvimento de dashboards de BI no âmbito profissional, aplicando modelagem de dados para suporte à decisão executiva e monitoramento de KPIs.
 
 🛠️ Arsenal Técnico
-Linguagens & Web: Python (FastAPI, Pandas), JavaScript (Vanilla, PWA), HTML5/CSS3 (Dark Mode/Dashboard Design).
+Ciência de Dados: Pandas, NumPy, Scikit-learn (em evolução), Modelagem Estatística e NLP.
 
-IA & Automação: LLMs (Llama), Telegram Bot API, GitHub Actions (CI/CD de Dados).
+Desenvolvimento & APIs: Python (FastAPI), JavaScript (PWA), Engenharia de Prompts (LLMs).
 
-Bancos & Cloud: Supabase (PostgreSQL), Google Cloud API (Sheets/Drive), Render.
+Cloud & DevOps: Render, GitHub Actions, Supabase (PostgreSQL) e Google Cloud API.
 
-Governança: Implementação de normas LGPD, sanitização de dados via Regex e gestão de variáveis de ambiente para proteção de dados sensíveis.
+Governança: Proteção de dados sensíveis e conformidade com boas práticas de manipulação de dados em conformidade com a LGPD.
 
-🎯 Onde quero chegar?
-Busco aplicar meu conhecimento em IA e Engenharia de Dados para criar sistemas que não apenas leiam números, mas que antecipem tendências e otimizem operações complexas com agilidade e segurança.
+🎯 Objetivo Profissional
+Unir a robustez da Ciência de Dados com a automação de IA para criar soluções que não apenas organizem dados, mas que prevejam cenários e otimizem resultados de forma inteligente.
+
+Por que isso ajuda você na Pós?
