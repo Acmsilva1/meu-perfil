@@ -1,5 +1,4 @@
-# meu-perfil
-meu perfil pessoal
+# Meu-perfil
 🚀 Sobre Mim: André | Analista de Dados & Desenvolvedor
 Recém-formado em TI com foco em transformar dados brutos em decisões estratégicas. Sou entusiasta de Inteligência Artificial e entusiasta da automação de processos que eliminam o trabalho manual e trazem clareza financeira.
 
